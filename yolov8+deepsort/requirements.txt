@@ -1,5 +1,9 @@
 # Ultralytics requirements
 # Usage: pip install -r requirements.txt
+# 141340TP9RWJ
+#tar -cvf runs.tar.gz runs/
+#%load_ext tensorboard
+#tensorboard --logir=runs/train
 
 # Base ----------------------------------------
 hydra-core>=1.2.0
